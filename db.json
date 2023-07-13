@@ -1,4 +1,11 @@
 {
+  "id": 1,
+  "isActive": true,
+  "job": {
+    "id": 1,
+    "job": "Coder"
+  },
+  "name": "Long",
   "favorites": [
     {
       "favorite": "Music",
@@ -8,12 +15,5 @@
       "favorite": "Book",
       "id": 2
     }
-  ],
-  "id": 1,
-  "isActive": true,
-  "job": {
-    "id": 1,
-    "job": "Coder"
-  },
-  "name": "Long"
+  ]
 }
